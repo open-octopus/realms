@@ -1,0 +1,12 @@
+name: Checking Account
+type: asset
+realm: finance
+attributes:
+  institution: ""
+  accountType: checking
+  currency: USD
+  balance: 0
+  monthlyIncome: 0
+  recurringExpenses: []
+  linkedAccounts: []
+description: Primary checking account for daily transactions, bill payments, and income deposits.

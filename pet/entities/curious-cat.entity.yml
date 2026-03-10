@@ -1,0 +1,14 @@
+name: Curious Cat
+type: living
+realm: pet
+attributes:
+  species: cat
+  breed: domestic shorthair
+  age: 3 years
+  weight: 4.5 kg
+  color: orange tabby
+  temperament: curious and playful
+  indoorOutdoor: indoor
+  vaccinated: true
+  spayedNeutered: true
+description: A curious and adventurous indoor cat who loves exploring every corner of the house and chasing sunbeams.

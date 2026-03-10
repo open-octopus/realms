@@ -1,0 +1,14 @@
+name: Loyal Dog
+type: living
+realm: pet
+attributes:
+  species: dog
+  breed: golden retriever
+  age: 5 years
+  weight: 30 kg
+  color: golden
+  temperament: loyal and gentle
+  trained: true
+  vaccinated: true
+  spayedNeutered: true
+description: A faithful and gentle golden retriever who loves long walks, belly rubs, and greeting everyone with a wagging tail.

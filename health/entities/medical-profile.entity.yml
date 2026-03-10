@@ -1,0 +1,15 @@
+name: Medical Profile
+type: abstract
+realm: health
+attributes:
+  bloodType: ""
+  allergies: []
+  conditions: []
+  medications: []
+  immunizations: []
+  familyHistory: []
+  primaryCareProvider: ""
+  insuranceProvider: ""
+  emergencyContact: ""
+  lastCheckup: ""
+description: Comprehensive personal medical profile containing health history, current medications, allergies, and provider information.

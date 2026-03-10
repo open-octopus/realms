@@ -1,0 +1,25 @@
+name: Monthly Budget
+type: abstract
+realm: finance
+attributes:
+  period: monthly
+  totalIncome: 0
+  totalBudget: 0
+  categories:
+    - name: housing
+      allocated: 0
+    - name: food
+      allocated: 0
+    - name: transportation
+      allocated: 0
+    - name: utilities
+      allocated: 0
+    - name: savings
+      allocated: 0
+    - name: entertainment
+      allocated: 0
+    - name: miscellaneous
+      allocated: 0
+  savingsGoal: 0
+  trackingMethod: envelope
+description: Monthly household budget tracking income, expenses across categories, and savings targets.

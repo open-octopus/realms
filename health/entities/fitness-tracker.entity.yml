@@ -1,0 +1,17 @@
+name: Fitness Tracker
+type: asset
+realm: health
+attributes:
+  device: ""
+  dailyStepGoal: 10000
+  weeklyExerciseGoal: 150
+  sleepTarget: 8
+  waterIntakeGoal: 2000
+  metrics:
+    - steps
+    - heartRate
+    - sleep
+    - calories
+    - activeMinutes
+  syncEnabled: false
+description: Wearable fitness tracker for monitoring daily activity, sleep patterns, heart rate, and exercise goals.
