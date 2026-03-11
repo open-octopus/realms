@@ -1,0 +1,21 @@
+name: Dad
+type: living
+realm: parents
+attributes:
+  relationship: father
+  age: 62
+  interests:
+    - woodworking
+    - fishing
+    - classic rock music
+    - history documentaries
+  healthFocus:
+    - blood pressure management
+    - daily walking routine
+    - annual physical checkup
+  favoriteFood: barbecue ribs
+  communicationPreference: phone calls on Sunday evenings
+  birthday: 1963-10-22
+  retired: false
+  occupation: civil engineer
+description: A steadfast and handy father who expresses love through acts of service, weekend woodworking projects, and long phone calls filled with life advice and fishing stories.

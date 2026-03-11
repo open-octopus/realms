@@ -1,0 +1,21 @@
+name: Sedan
+type: asset
+realm: vehicle
+attributes:
+  make: Honda
+  model: Civic
+  year: 2021
+  mileage: 34500
+  color: cosmic blue metallic
+  licensePlate: 7ABC123
+  vin: 2HGFC2F64MH123456
+  fuelType: gasoline
+  transmission: CVT automatic
+  drivetrain: front-wheel drive
+  insuranceProvider: State Farm
+  policyNumber: SF-AUTO-88412
+  annualInsurancePremium: 1240.00
+  registrationExpiry: 2026-09-15
+  tireType: all-season
+  lastOilChange: 2026-01-20
+description: A reliable 2021 Honda Civic sedan in cosmic blue metallic with moderate mileage, well-maintained and insured, serving as the primary daily driver for commuting and weekend trips.

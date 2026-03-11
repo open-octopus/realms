@@ -1,0 +1,23 @@
+name: Fitness Profile
+type: abstract
+realm: fitness
+attributes:
+  fitnessLevel: intermediate
+  weeklyWorkoutDays: 4
+  preferredExercises:
+    - running
+    - weight training
+    - yoga
+    - swimming
+  goals:
+    - Run a sub-4-hour marathon
+    - Bench press 100 kg
+    - Improve flexibility
+  restingHeartRate: 62 bpm
+  maxHeartRate: 188 bpm
+  bodyFatPercentage: 18%
+  preferredWorkoutTime: morning
+  injuries:
+    - type: mild knee strain
+      status: recovered
+description: A comprehensive fitness profile tracking workout preferences, physical benchmarks, and long-term athletic goals for an intermediate-level fitness enthusiast.

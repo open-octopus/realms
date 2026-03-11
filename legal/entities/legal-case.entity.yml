@@ -1,0 +1,20 @@
+name: Legal Case
+type: abstract
+realm: legal
+attributes:
+  caseNumber: SC-2025-04821
+  type: small claims
+  status: pending
+  filingDate: 2025-11-15
+  court: County Small Claims Court
+  claimAmount: 3200.00
+  currency: USD
+  opposingParty: Previous Landlord LLC
+  nextHearingDate: 2026-04-10
+  assignedJudge: TBD
+  documentsOnFile:
+    - original lease agreement
+    - move-out inspection photos
+    - correspondence records
+    - security deposit receipt
+description: A pending small claims case filed to recover an unreturned security deposit, with supporting documentation including the original lease, inspection photos, and written correspondence.

@@ -1,0 +1,23 @@
+name: Friend Group
+type: abstract
+realm: friends
+attributes:
+  groupName: The Weekend Warriors
+  members:
+    - Alex
+    - Jordan
+    - Sam
+    - Casey
+    - Riley
+  regularActivities:
+    - monthly game night
+    - summer camping trip
+    - holiday potluck dinner
+    - spontaneous brunch outings
+  groupChatPlatform: Signal
+  founded: 2015
+  traditions:
+    - Secret Santa every December
+    - Annual friendiversary dinner in September
+  sharedAlbumCount: 47
+description: A tight-knit friend group forged through years of shared adventures, inside jokes, and an unbreakable group chat. They rally for the big moments and show up for the small ones.

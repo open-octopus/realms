@@ -1,0 +1,21 @@
+name: Mom
+type: living
+realm: parents
+attributes:
+  relationship: mother
+  age: 60
+  interests:
+    - gardening
+    - cooking
+    - book club
+    - yoga
+  healthFocus:
+    - vitamin D supplementation
+    - weekly yoga classes
+    - cholesterol monitoring
+  favoriteFood: homemade pasta
+  communicationPreference: video calls and frequent texts
+  birthday: 1965-05-03
+  retired: true
+  previousOccupation: elementary school teacher
+description: A nurturing and active mother who fills her retirement with gardening, cooking elaborate meals for the family, and making sure everyone is eating enough and wearing a jacket.

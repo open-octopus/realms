@@ -1,0 +1,28 @@
+name: Shared Goals
+type: abstract
+realm: partner
+attributes:
+  goals:
+    - name: House Down Payment Fund
+      target: 60000.00
+      progress: 35000.00
+      currency: USD
+      deadline: 2027-12-31
+      status: on track
+    - name: Japan Trip
+      target: Plan and book a two-week trip
+      progress: Researching itineraries and flights
+      deadline: 2026-10-01
+      status: planning
+    - name: Italian Cooking Course
+      target: Complete a 10-week couples cooking class
+      progress: Enrolled, starting week 3
+      deadline: 2026-05-15
+      status: in progress
+    - name: Weekly Date Night
+      target: Maintain a consistent weekly date night
+      progress: 48 of 52 weeks completed this year
+      deadline: ongoing
+      status: on track
+  lastReviewed: 2026-03-01
+description: A living document of shared relationship goals tracking financial milestones, travel plans, learning adventures, and the rituals that keep the partnership strong.

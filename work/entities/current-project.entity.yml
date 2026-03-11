@@ -1,0 +1,35 @@
+name: Current Project
+type: abstract
+realm: work
+attributes:
+  projectName: Platform Migration v2
+  role: tech lead
+  deadline: 2026-06-30
+  status: in progress
+  stakeholders:
+    - VP of Engineering
+    - Product Manager
+    - QA Lead
+    - DevOps Team
+  teamSize: 6
+  techStack:
+    - TypeScript
+    - Next.js
+    - PostgreSQL
+    - Redis
+    - AWS
+  milestones:
+    - name: Architecture review
+      status: completed
+    - name: Core API migration
+      status: in progress
+    - name: Frontend rebuild
+      status: not started
+    - name: Load testing
+      status: not started
+    - name: Production rollout
+      status: not started
+  riskFactors:
+    - Legacy data compatibility
+    - Third-party API deprecations
+description: A high-visibility platform migration project where the engineer serves as tech lead, overseeing a six-person team through a phased rebuild of the core product infrastructure with a Q2 deadline.

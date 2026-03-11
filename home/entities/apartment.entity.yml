@@ -1,0 +1,19 @@
+name: Apartment
+type: asset
+realm: home
+attributes:
+  address: 742 Maple Street, Apt 4B
+  bedrooms: 2
+  bathrooms: 1
+  squareFootage: 850
+  monthlyRent: 1650.00
+  currency: USD
+  moveInDate: 2024-08-01
+  leaseEndDate: 2026-07-31
+  petPolicy: cats allowed with deposit
+  parkingType: street
+  laundry: in-unit
+  heatingType: forced air
+  floorLevel: 4
+  facesDirection: south-facing
+description: A cozy two-bedroom apartment on the fourth floor with south-facing windows that flood the living room with natural light. Close to public transit and the weekend farmers market.

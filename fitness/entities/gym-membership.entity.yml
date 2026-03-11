@@ -1,0 +1,21 @@
+name: Gym Membership
+type: asset
+realm: fitness
+attributes:
+  gymName: Iron Peak Fitness
+  membershipType: premium
+  monthlyFee: 59.99
+  currency: USD
+  startDate: 2025-03-01
+  contractLength: 12 months
+  facilities:
+    - free weights area
+    - cardio machines
+    - swimming pool
+    - sauna
+    - group class studio
+  guestPassesPerMonth: 2
+  personalTrainerSessionsIncluded: 1
+  operatingHours: 5:00 AM - 11:00 PM
+  parkingIncluded: true
+description: A premium gym membership at Iron Peak Fitness providing access to a full range of facilities including pool, sauna, and monthly personal training sessions.

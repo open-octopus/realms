@@ -1,0 +1,25 @@
+name: Hobby Toolkit
+type: asset
+realm: hobby
+attributes:
+  hobbyType: watercolor painting
+  tools:
+    - name: Kolinsky sable brush set
+      condition: good
+    - name: Portable easel
+      condition: excellent
+    - name: Mixing palette (ceramic)
+      condition: good
+    - name: Water brush pens
+      condition: new
+    - name: Masking fluid
+      condition: half used
+  skillLevel: intermediate
+  totalInvestment: 420.00
+  currency: USD
+  storageLocation: studio corner shelf
+  lastRestocked: 2026-01-15
+  wishlist:
+    - lightbox for tracing
+    - gouache set for mixed media
+description: A curated collection of watercolor painting tools and supplies built up over two years of dedicated practice, stored in a compact studio corner setup.

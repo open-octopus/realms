@@ -1,0 +1,42 @@
+name: Maintenance Log
+type: abstract
+realm: vehicle
+attributes:
+  vehicleRef: 2021 Honda Civic
+  entries:
+    - date: 2026-01-20
+      type: oil change
+      mileage: 33800
+      cost: 65.00
+      provider: Quick Lube Express
+      notes: Synthetic blend 0W-20
+    - date: 2025-10-05
+      type: tire rotation
+      mileage: 30200
+      cost: 40.00
+      provider: Discount Tire
+      notes: Even wear pattern, good tread depth remaining
+    - date: 2025-07-12
+      type: brake inspection
+      mileage: 27500
+      cost: 0.00
+      provider: Honda Dealership
+      notes: Front pads at 60%, rear at 70%. No action needed yet.
+    - date: 2025-03-18
+      type: cabin air filter replacement
+      mileage: 24000
+      cost: 25.00
+      provider: Self
+      notes: Replaced with OEM filter
+    - date: 2024-12-01
+      type: annual inspection
+      mileage: 21000
+      cost: 30.00
+      provider: State Inspection Station
+      notes: Passed all checks
+  nextScheduledService:
+    type: oil change
+    dueMileage: 38800
+    dueDate: 2026-06-20
+  currency: USD
+description: A chronological maintenance log for a 2021 Honda Civic tracking all service visits, costs, and upcoming scheduled maintenance to ensure the vehicle stays in peak condition.

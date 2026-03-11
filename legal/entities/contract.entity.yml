@@ -1,0 +1,23 @@
+name: Contract
+type: abstract
+realm: legal
+attributes:
+  title: Freelance Services Agreement
+  parties:
+    - name: Self
+      role: service provider
+    - name: Acme Corp
+      role: client
+  signedDate: 2025-09-01
+  expiryDate: 2026-08-31
+  type: services agreement
+  status: active
+  governingLaw: State of California
+  autoRenew: false
+  noticePeriod: 30 days
+  keyTerms:
+    - Monthly deliverables due by the 15th
+    - Payment net 30
+    - Non-compete clause limited to 6 months post-termination
+  documentLocation: ~/Documents/Legal/Contracts/acme-services-2025.pdf
+description: An active freelance services agreement with Acme Corp outlining deliverables, payment terms, and a limited non-compete clause, set to expire in August 2026.

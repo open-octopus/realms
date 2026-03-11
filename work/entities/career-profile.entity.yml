@@ -1,0 +1,24 @@
+name: Career Profile
+type: abstract
+realm: work
+attributes:
+  title: Senior Software Engineer
+  company: Horizon Tech
+  industry: technology
+  startDate: 2023-04-15
+  skills:
+    - TypeScript
+    - React
+    - Node.js
+    - PostgreSQL
+    - system design
+    - team leadership
+  yearsOfExperience: 7
+  educationLevel: Bachelor of Science in Computer Science
+  currentSalary: 145000.00
+  currency: USD
+  workArrangement: hybrid
+  performanceRating: exceeds expectations
+  careerGoal: Engineering Manager within 2 years
+  mentoring: mentoring two junior engineers
+description: A senior software engineer at Horizon Tech with seven years of experience across the full stack, currently focused on system design and team leadership while working toward an engineering management role.

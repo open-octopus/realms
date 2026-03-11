@@ -1,0 +1,18 @@
+name: Close Friend
+type: living
+realm: friends
+attributes:
+  nickname: ""
+  howWeMet: college orientation week
+  sharedInterests:
+    - hiking
+    - board games
+    - cooking
+    - live music
+  birthday: 1994-07-15
+  communicationStyle: memes and voice notes
+  friendSince: 2013
+  lastHangout: 2026-02-20
+  favoriteSharedMemory: Road trip to the coast during spring break
+  trustLevel: unconditional
+description: A close friend met during college orientation who shares a love of outdoor adventures, board game nights, and spontaneous road trips. The kind of friend you can call at 2 AM without hesitation.

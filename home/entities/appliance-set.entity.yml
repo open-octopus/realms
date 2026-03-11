@@ -1,0 +1,34 @@
+name: Appliance Set
+type: asset
+realm: home
+attributes:
+  appliances:
+    - name: Refrigerator
+      brand: Samsung
+      model: RT18M6215SG
+      warrantyExpiry: 2027-03-15
+      condition: excellent
+    - name: Washing Machine
+      brand: LG
+      model: WM3600HWA
+      warrantyExpiry: 2026-11-01
+      condition: good
+    - name: Dishwasher
+      brand: Bosch
+      model: SHPM88Z75N
+      warrantyExpiry: 2027-01-20
+      condition: excellent
+    - name: Microwave
+      brand: Panasonic
+      model: NN-SN68KS
+      warrantyExpiry: 2026-06-10
+      condition: good
+    - name: Air Purifier
+      brand: Dyson
+      model: TP07
+      warrantyExpiry: 2027-08-05
+      condition: excellent
+  totalValue: 4200.00
+  currency: USD
+  lastFullInspection: 2025-12-01
+description: A complete set of household appliances in good to excellent condition, all within warranty and regularly maintained to ensure reliable daily operation.

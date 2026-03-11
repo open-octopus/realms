@@ -1,0 +1,21 @@
+name: Creative Project
+type: abstract
+realm: hobby
+attributes:
+  projectName: Watercolor Cityscape Series
+  medium: watercolor painting
+  status: in progress
+  startDate: 2025-11-01
+  estimatedCompletion: 2026-06-01
+  piecesPlanned: 8
+  piecesCompleted: 3
+  inspirations:
+    - urban sketching movement
+    - Impressionist cityscapes
+    - local architecture
+  materialsUsed:
+    - Arches cold press paper
+    - Daniel Smith watercolors
+    - Kolinsky sable brushes
+  displayGoal: local gallery exhibition
+description: An ongoing watercolor painting series capturing city skylines and street scenes at different times of day, blending loose washes with architectural detail.
