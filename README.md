@@ -31,6 +31,10 @@ Think of it as the "standard library" of life domains: install a realm and you g
 
 ## REALM.md Format Specification
 
+<p align="center">
+  <img src="docs/images/realm-anatomy.png" alt="Realm Package Anatomy" width="800">
+</p>
+
 A REALM.md file uses YAML front matter to define a life domain. The body contains Markdown documentation for the realm.
 
 ### Schema
@@ -115,6 +119,10 @@ health checkups and care routines.
 ```
 
 ## Preset Realms
+
+<p align="center">
+  <img src="docs/images/realm-grid.png" alt="12 Preset Realms" width="800">
+</p>
 
 OpenOctopus ships with 12 default realm templates:
 
