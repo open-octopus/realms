@@ -20,8 +20,7 @@
 
 ---
 
-> **Status: Planned** — Part of the OpenOctopus ecosystem roadmap.
-> Star this repo to follow progress.
+> **Status: Planned** — Phase 1 focuses on **pet** and **parents** realms as the vertical slice for the AI family home hub. Other realms will be activated progressively.
 
 ## What is realms?
 
@@ -126,20 +125,20 @@ health checkups and care routines.
 
 OpenOctopus ships with 12 default realm templates:
 
-| Realm | Icon | Description | Typical Entities |
-|-------|------|-------------|------------------|
-| `pet` | 🐾 | Pet care and management | Pets, vet records, food supplies |
-| `parents` | 👨‍👩‍👧 | Parent care and communication | Parents, health records, gifts |
-| `partner` | 💕 | Relationship management | Partner, anniversaries, shared goals |
-| `finance` | 💰 | Personal finance | Accounts, investments, budgets |
-| `work` | 💼 | Work and career | Projects, colleagues, goals |
-| `legal` | ⚖️ | Legal affairs | Contracts, cases, legal documents |
-| `vehicle` | 🚗 | Vehicle management | Cars, insurance, maintenance records |
-| `home` | 🏠 | Home management | Property, appliances, renovation records |
-| `health` | 🏥 | Health and medical | Medical records, prescriptions, checkups |
-| `fitness` | 💪 | Exercise and wellness | Training plans, body metrics, goals |
-| `hobby` | 🎨 | Hobbies and interests | Projects, learning resources, collections |
-| `friends` | 🤝 | Social relationships | Friends, social events, group activities |
+| Realm | Icon | Phase | Description | Typical Entities |
+|-------|------|-------|-------------|------------------|
+| `pet` | 🐾 | **1** | Pet care and management | Pets, vet records, food supplies |
+| `parents` | 👨‍👩‍👧 | **1** | Parent/elder care and communication | Parents, health records, medications |
+| `health` | 🏥 | 1.5 | Health and medical | Medical records, prescriptions, checkups |
+| `finance` | 💰 | 1.5 | Family finance | Accounts, investments, budgets |
+| `partner` | 💕 | 2 | Relationship management | Partner, anniversaries, shared goals |
+| `work` | 💼 | 2 | Work and career | Projects, colleagues, goals |
+| `legal` | ⚖️ | 2 | Legal affairs | Contracts, cases, legal documents |
+| `vehicle` | 🚗 | 2 | Vehicle management | Cars, insurance, maintenance records |
+| `home` | 🏠 | 2 | Home management | Property, appliances, renovation records |
+| `fitness` | 💪 | 3 | Exercise and wellness | Training plans, body metrics, goals |
+| `hobby` | 🎨 | 3 | Hobbies and interests | Projects, learning resources, collections |
+| `friends` | 🤝 | 3 | Social relationships | Friends, social events, group activities |
 
 Users can freely create, merge, or delete realms. These are starting templates, not rigid categories.
 
